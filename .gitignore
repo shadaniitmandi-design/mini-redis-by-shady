@@ -1,0 +1,3 @@
+node_modules/
+database.aof
+.DS_Store
