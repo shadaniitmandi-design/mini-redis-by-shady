@@ -1,0 +1,13 @@
+{
+  "name": "mini-redis-by-shady",
+  "version": "1.0.0",
+  "description": "A tiny Redis-like server built from scratch in Node.js.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
